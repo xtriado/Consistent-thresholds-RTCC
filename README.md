@@ -2,11 +2,11 @@
 We developed a new methodological (trait-based) approach to identify distinct drivers of ecological community assembly. The method can first separate the combined effects of biotic and abiotic factors on changes of community composition along an environmental gradient, and, second, find consistent thresholds in the value of an environmental variable along the gradient indicating substantial structural changes in the leading drivers. Although we have developed this approach for microbial communities, it is completely general and can be applied to macro-organismal communities with the same easiness. To carry out this approach, a dataset of (phenotypic and/or genotypic) community traits and metadata from the variables are necessary. This method can help understand how the environment affects community assembly, which enables quantitative predictions for the ecological impact of environmental changes. This research can be found under the title "Consistent environmental thresholds in community assembly".
 
 ## The scripts 
-Script 1: gen-Metacom.py
-Script 2: boxplot.py
-Script 3: hindex-repetitions.py
-Script 4: Chow-test.R
-RTCC C code: permut.c
+Script 1: gen-Metacom.py;
+Script 2: boxplot.py;
+Script 3: hindex-repetitions.py;
+Script 4: Chow-test.R;
+RTCC C code: permut.c;
 OSX shared library: permlib.so
 
 ## Additional data tables 
