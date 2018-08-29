@@ -10,8 +10,8 @@ RTCC C code: permut.c;
 OSX shared library: permlib.so
 
 ## Additional data tables 
-- Table S1 (traits_plus_range.csv):Example data of traits and environmental ranges of the pool of species in the metacommunity.
-- Table S2 (table_presence_absence.csv): Example presence-absence data frame.
-- Table S3 (metadata.csv): Example metadata: a wide salinity gradient from 0.1 to 40% of dissolved salts.
-- Table S4 (metacomm_sum.csv): Dataset of relative abundances (between 0 and 1) for each species, normalized to the total abundance observed in the metacommunity.
-- Table S5 (clustering_index_vs_env_gradient.csv): Dataset for the curve of the clustering index values for a given trait along the environmental gradient of a variable resulting from the STEP 3 in the protocol (see supplementary information of the related article).
+- Sample data 1 (traits_plus_range.csv):Trait data and environmental ranges of the pool of species in the metacommunity.
+- Sample data 2 (table_presence_absence.csv): Presence-absence data.
+- Sample data 3 (metadata.csv): Salinity gradient data from 0.1 to 40% of dissolved salts..
+- Sample data 4 (metacomm_sum.csv): Relative abundance data (between 0 and 1) for each species, normalized to the total abundance observed in the metacommunity.
+- Sample data 5 (clustering_index_vs_env_gradient.csv): Clustering index curve data for a given trait along the gradient of a variable resulting from the STEP 3 in the protocol (see supplementary information of the related article).
